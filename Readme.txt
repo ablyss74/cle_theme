@@ -28,7 +28,7 @@ New user can add flatpak repo with:
 
     flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
-Once you’ve test the theme you can override passwd for quicker logins :wink:
+Once you’ve test the theme you can override passwd for quicker logins ;-)
 
     sudo passwd -d enlightenment
 
