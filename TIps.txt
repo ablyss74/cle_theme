@@ -1,0 +1,24 @@
+Thanks for trying out exmaple_theme
+ 
+Created by: JBx20001 1/4/2021
+
+
+New User Tip:
+The home directory is empty, except for the Desktop folder, unless your logged in accidentally into Gnome.org first, or are in single user mode.
+This is so you can create your own icon designs and folder layout.
+
+Baisc to Set An Icon:
+
+First open up home folder, then click a random empty spot and select `New` then select `Directory`.
+	Then click the new folder and select `File Properties` at the bottom.
+		Uncheck `use this icon for all files of this type`,
+			Then click the Blue Icon Folder,
+				Then select the little folder called icons on the left,
+					Scroll down and find a different icon to design. 
+				Click OK
+		You may need apply twice, 
+	or select thumbnail first to see
+it change settings.
+					
+
+
