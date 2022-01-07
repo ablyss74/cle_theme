@@ -38,7 +38,7 @@ Change hostname to something fancy ** Requires Reboot **
 
 #### Single-User Method ####
 
-If you don’t have a password make sure you setup one up…
+If you don’t have a password make sure you set one up…
 
     sudo passwd $(whoami)
 
