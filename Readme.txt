@@ -1,5 +1,7 @@
 Please read everything slowly and step by step
-Multi-User Method
+
+#### Multi-User Method ####
+
 After a fresh install and swupd has finished updating…
 Add new user to admin group
 
@@ -20,7 +22,8 @@ Install example_theme.tar
 
 Now use the Switch User... Option at the top right menu
 Before you type in your password, select the bottom right icon and select the Enlightenment Desktop.
-Extra Optional Stuff
+
+#### Extra Optional Stuff
 New user can add flatpak repo with:
 
     flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
@@ -33,7 +36,7 @@ Change hostname to something fancy ** Requires Reboot **
 
     sudo hostnamectl set-hostname fancypants
 
-Single-User Method
+#### Single-User Method ####
 
 If you don’t have a password make sure you setup one up…
 
