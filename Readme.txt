@@ -18,6 +18,7 @@ Install enlightenment bundle
 Install example_theme.tar
 
     sudo tar -xf example_theme.tar -C /home/enlightenment/
+    sudo mv /home/enlightenment/example_theme /home/enlightenment/.e
     sudo chown -R enlightenment /home/enlightenment/
 
 Now use the Switch User... Option at the top right menu
