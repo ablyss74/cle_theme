@@ -1,6 +1,6 @@
 Please read everything slowly and step by step
 
-#### Multi-User Method ####
+#### Multi-User Method #### ( Recommeneded for beginners )
 
 After a fresh install and swupd has finished updating…
 Add new user to admin group
