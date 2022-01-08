@@ -51,6 +51,7 @@ Extract the single_user_example_theme.tar with the following
 DO NOT USE SUDO…
 
     tar -xf example_theme.tar -C $HOME/
+    mv $HOME/example_theme $HOME/.e
 
 Log out and change the display manager as you would with switching users by selecting the lower right icon, and select enlightenment.
 
