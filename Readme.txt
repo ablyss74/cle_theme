@@ -47,7 +47,7 @@ Install enlightenment bundle
 
     sudo swupd bundle-add desktop-enlightenment
 
-Extract the single_user_example_theme.tar with the following
+Extract the example_theme.tar with the following
 DO NOT USE SUDO…
 
     tar -xf example_theme.tar -C $HOME/
