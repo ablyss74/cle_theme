@@ -24,4 +24,5 @@ it change settings.
 Single User Mode Notes:
 
 Some icons that are set will follow thru to Gnome.org display manager and may disappear if theme is replaced or broken.
+But easy to fix - just reopen enlightenment, load the app, and give it a new icon.
 
