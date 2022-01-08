@@ -55,6 +55,9 @@ DO NOT USE SUDO…
 
 Log out and change the display manager as you would with switching users by selecting the lower right icon, and select enlightenment.
 
+
+IF THINGS GO WRONG
+
 If you have accidentally used sudo to extract the theme for single user method, open up a tty3 session <alt+ctrl+F3>, log in and reboot.
 
     sudo reboot
@@ -63,4 +66,5 @@ Once rebooted, select Gnome Xorg as display manager and login, then open up term
 
     sudo chown -Rv $(whoami) /home/$(whoami)/.e
 
-Open up File Manager (nautilus) and select show hidden files and delete the folder “.e” with the file manager. Then extract the example_theme again without using sudo and follow the steps again.
+Open up File Manager (nautilus) and select show hidden files and delete the folder “.e” with the file manager. 
+Then extract the example_theme again without using sudo and follow the steps again.
