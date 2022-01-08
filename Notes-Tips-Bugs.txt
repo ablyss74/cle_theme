@@ -20,10 +20,8 @@ First open up home folder, then click a random empty spot and select `New` then 
 	or select thumbnail first to see
 it change settings.
 					
-Bugs:
 
-Not really a bug per se but in sigle user mode the icon in the `Favorites` will point to /home/enlightenment/.e./e/icons and give an error
-when clicked.  Pretty easy to delete and relink so not really a big issue. 
+Single User Mode Notes:
 
-Some icons that are set will follow thru to Gnome.org display manager in single mode user mode.
+Some icons that are set will follow thru to Gnome.org display manager and may disappear if theme is replaced or broken.
 
