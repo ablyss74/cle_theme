@@ -5,7 +5,9 @@
 
 Please read everything slowly and step by step
 
-#### Multi-User Method #### ( Recommeneded for beginners )
+###############################################################
+#    Multi-User Method #### ( Recommeneded for beginners )    #
+###############################################################
 
 After a fresh install and swupd has finished updating…
 Add new user to admin group
@@ -41,9 +43,11 @@ Once you’ve test the theme you can override passwd for quicker logins ;-)
 Change hostname to something fancy ** Requires Reboot **
 
     sudo hostnamectl set-hostname fancypants
-
-#### Single-User Method ####
-
+    
+    
+###############################################################
+#    Single-User Method                                       #
+###############################################################
 If you don’t have a password make sure you set one up…
 
     sudo passwd $(whoami)
@@ -61,8 +65,9 @@ DO NOT USE SUDO…
 Log out and change the display manager as you would with switching users by selecting the lower right icon, and select enlightenment.
 
 
-IF THINGS GO WRONG
-
+###############################################################
+#    IF THINGS GO WRONG                                       #
+###############################################################
 If you have accidentally used sudo to extract the theme for single user method, open up a tty3 session <alt+ctrl+F3>, log in and reboot.
 
     sudo reboot
