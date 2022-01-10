@@ -1,7 +1,7 @@
-####################################################################
-## Clear Linux Desktop Help Guide To Getting Enlightenment Running #
-## Other distros work too but this is all related to Clear Help    #
-#####################################################################
+##########################################################################
+##    Clear Linux Desktop Help Guide To Getting Enlightenment Running   ##
+##  Other distros work too but this is all related to Clear Linux Help  ##
+##########################################################################
 
 Please read everything slowly and step by step
 
