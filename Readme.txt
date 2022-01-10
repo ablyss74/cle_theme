@@ -3,6 +3,8 @@
 ##  Other distros work too but this is all related to Clear Linux Help  ##
 ##########################################################################
 
+## Screenshot http://www.enlightenment.org/ss/e-61dc9308cc8c22.36095966.jpg
+
 Please read everything slowly and step by step
 
 ###############################################################
