@@ -1,6 +1,16 @@
+
 ##########################################################################
 ##    Clear Linux Desktop Help Guide To Getting Enlightenment Running   ##
 ##  Other distros work too but this is all related to Clear Linux Help  ##
+##########################################################################
+
+##########################################################################
+##    A little history on the icons included in this tar file.  Years   ##
+##  ago using BeOS and OpenTracker, which supported icons themes,       ## 
+##       I backed up the icons to png format and saved them.            ##
+##                                                                      ##    
+##  I have a ton more not included and if you would like me to make     ##
+##  another theme, just ask me via email or the #haiku irc channel.     ##  
 ##########################################################################
 
 ## Screenshot http://www.enlightenment.org/ss/e-61dc9308cc8c22.36095966.jpg
