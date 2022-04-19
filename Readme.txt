@@ -13,8 +13,6 @@
 ##  another theme, just ask me via email or the #haiku irc channel.     ##  
 ##########################################################################
 
-## Screenshot http://www.enlightenment.org/ss/e-61dc9308cc8c22.36095966.jpg
-
 Please read everything slowly and step by step
 
 ###############################################################
