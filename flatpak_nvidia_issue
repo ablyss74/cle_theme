@@ -4,4 +4,4 @@ as from other users on the system and reinstalled flatpak with swupd. After that
 in the theme instructions and flatpak saw that the nvidia driver was actually loaded and installed the proper driver.
 
 This maybe an isolated and/or maybe rare issue but just throwing it out incase anyone runs into it.  And also I'm
-not 100% sure that instructions above actually did the fix but there ya go.
+not 100% sure that the instructions above actually did the fix but there ya go.
