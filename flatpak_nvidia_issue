@@ -1,7 +1,7 @@
 Possible issue and fix for nvidia users and adding a remote flatpak as described in the theme were flatpak fails
-to see the nvidia driver loaded on the system.  To fix this I removed "rm -fr" $HOME/.local/share/flatpak and
-reinstalled flatpak with swupd.  After that I added the flatpak hub as described in the thtme instructions and
-flatpak saw the nvidia driver was actually loaded and installed the proper driver.
+to see the nvidia driver loaded on the system.  To fix this I removed "rm -fr" $HOME/.local/share/flatpak as well
+as from other users on the system and reinstalled flatpak with swupd. After that I added the flatpak hub as described 
+in the theme instructions and flatpak saw that the nvidia driver was actually loaded and installed the proper driver.
 
-This maybe an isolated and or maybe rare issue but just throwing it out incase anyone runs into it.  And also I'm
+This maybe an isolated and/or maybe rare issue but just throwing it out incase anyone runs into it.  And also I'm
 not 100% sure that instructions above actually did the fix but there ya go.
